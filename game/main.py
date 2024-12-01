@@ -33,7 +33,7 @@ class Game(ShowBase):
 
         # Movement settings
         self.speed = 40  # Movement speed (faster)
-        self.sensitivity = 7.5  # 5x faster sensitivity for mouse look
+        self.sensitivity = 9.5  # 5x faster sensitivity for mouse look
 
         # Mouse movement task
         self.mouseTask = self.task_mgr.add(self.mouse_control_task, "mouse_control")
