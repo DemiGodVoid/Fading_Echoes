@@ -6,4 +6,7 @@ Coded by: Void
 -
 ---> You are met with ghosts and zombies, Trying to find and attack you and they know where you are at all times! so try not to come across them.
 -
---> BETA
+---> You can build a home to hide in so they can't get you but they will crowd!
+-
+--> UP FOR TESTING CURRENTLY
+
